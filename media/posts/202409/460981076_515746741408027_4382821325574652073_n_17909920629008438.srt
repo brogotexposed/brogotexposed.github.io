@@ -1,0 +1,18 @@
+1
+00:00:02,161 --> 00:00:08,001
+One, two, one, two, one, one,
+one, one,
+
+2
+00:00:08,561 --> 00:00:16,001
+one, two, one, four, One, two,
+one, two, one, one, one, one,
+
+3
+00:00:16,001 --> 00:00:18,481
+one, one,
+
+4
+00:00:30,821 --> 00:00:34,801
+It's raining
+
