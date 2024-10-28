@@ -1,8 +1,0 @@
-1
-00:00:02,661 --> 00:00:06,681
-This is the mic speaking
-
-2
-00:00:16,201 --> 00:00:23,861
-Doctor B. Emergency
-
